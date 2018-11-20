@@ -1,5 +1,5 @@
 # MCCAM
-MCCAM is a program that display useful memory metrics according a frequency and interval length chosen by the user.
+MCCAM is a program that displays useful memory metrics according a frequency and interval length chosen by the user.
 In this case, one can have a higher information granularity than with others performance
 products like RMF or CMF.
 
